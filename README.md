@@ -1,1 +1,1 @@
-# SascmaCollege.github.io
+SascmaCollege.github.io
